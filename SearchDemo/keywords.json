@@ -1,0 +1,62 @@
+
+
+
+[
+    {"section_title" : "Vacuum",
+        "detail": {
+            "title" : "Vacuum",
+            "subtitle" : "In-stock",
+            "desc" : "ffffd",
+            "price" : "$599.9"
+        }
+    },
+    
+    {"section_title" : "Vacuum",
+        "detail": {
+            "title" : "Vacuum",
+            "subtitle" : "Out-of-stock",
+            "desc" : "ffffd",
+            "price" : "$599.9"
+        }
+    },
+    
+    {"section_title" : "Dysonic",
+        "detail": {
+            "title" : "Dysonic",
+            "subtitle" : "In-stock",
+            "desc" : "ffffd",
+            "price" : "$599.9"
+        }
+    },
+    
+    {"section_title" : "Dysonic",
+        "detail": {
+            "title" : "Dysonic",
+            "subtitle" : "In-Out-of-stock",
+            "desc" : "ffffd",
+            "price" : "$599.9"
+        }
+    },
+    
+    {"section_title" : "Vacuum",
+        "detail": {
+            "title" : "Vacuum",
+            "subtitle" : "Out-of-stock",
+            "desc" : "ffffd",
+            "price" : "$599.9"
+        }
+    },
+    
+    {"section_title" : "Dysonic",
+        "detail": {
+            "title" : "Dysonic",
+            "subtitle" : "In-stock",
+            "desc" : "ffffd",
+            "price" : "$599.9"
+        }
+    }
+    
+]
+
+
+

@@ -1,0 +1,10 @@
+platform :ios, '9.0'
+
+target 'SearchDemo' do
+  
+
+pod 'SnapKit'
+pod 'SwiftyJSON', '~> 4.0'
+
+
+end
