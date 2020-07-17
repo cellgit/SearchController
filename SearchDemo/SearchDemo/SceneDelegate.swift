@@ -20,7 +20,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window = UIWindow(frame: windowScene.coordinateSpace.bounds)
         window?.windowScene = windowScene
         window?.backgroundColor = .white
-        let nav = UINavigationController.init(rootViewController: KeywordSearchVC())
+        //ZJYBaseWebViewController.init(ZJYWebUrl.login)
+        let nav = UINavigationController.init(rootViewController: WebViewTestVC.init(ZJYWebUrl.login))
         window?.rootViewController = nav
         window?.makeKeyAndVisible()
     }
